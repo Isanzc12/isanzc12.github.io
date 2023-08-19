@@ -273,3 +273,5 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
 http://190.83.60.34:1414/play/a03w
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", TNT Series HD
 http://190.83.60.34:1414/play/a034
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", Ander TNT
+http://190.83.60.34:1414/play/a034
