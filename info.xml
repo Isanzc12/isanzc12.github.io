@@ -1,9 +1,9 @@
 <tv>
-<channel id="ATV">
+<channel id="ATV.pe">
 <display-name>ATV</display-name>
 </channel>
 
-<programme channel="ATV">
+<programme channel="ATV.pe">
 <title lang="es">ATV</title>
 <desc lang="es">Canal de Television Peruana.</desc>
 <category lang="es">Peru</category>
