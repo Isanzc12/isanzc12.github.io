@@ -27,15 +27,15 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/110.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg" group-title="Cable;Internacional", Animal Planet SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg"  group-title="Cable", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg"  group-title="Cable", Animal Planet FHD
 http://190.83.60.34:1414/play/a042
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/aztecacorazon.jpg" group-title="Cable", AZ Corazon
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/aztecacorazon.jpg" group-title="Cable", AZ Corazon SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/117.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bbcamerica.jpg" group-title="Internacional", BBC America (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bbcamerica.jpg" group-title="Internacional", BBC America (USA) HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/beinsportsesp.jpg" group-title="Deportes", Bein Sports Esp HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bravo.jpg" group-title="Internacional", Bravo (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bravo.jpg" group-title="Internacional", Bravo (USA) FHD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://onlive.webcindario.com/logo/dwesp.png" group-title="Cable", DW Español FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -45,17 +45,17 @@ http://190.83.60.34:1414/play/a03u
 https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonito.png" group-title="Infantil", Cartoonito Mx HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/comedycentral.jpg"  group-title="Cable", Comedy Central HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/comedycentral.jpg"  group-title="Cable", Comedy Central FHD
 http://190.83.60.34:1414/play/a02g
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinemax.jpg"  group-title="Peliculas", Cinemax HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinemax.jpg"  group-title="Peliculas", Cinemax FHD
 http://190.83.60.34:1414/play/a02f
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinecanal.png"  group-title="Peliculas", Cinecanal HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinecanal.png"  group-title="Peliculas", Cinecanal FHD
 http://190.83.60.34:1414/play/a03l
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinereal.jpg" group-title="Peliculas", Cine Real
 http://clubtv.link/1708a/key4512/distro.php?c=cine-real-latam.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cinesureno.jpg" group-title="Peliculas", Cine Sureño Mx
 http://clubtv.link/1708a/key4512/distro.php?c=cine-sureno.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cbssports.png" group-title="Internacional", CBS Sports Network (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cbssports.png" group-title="Internacional", CBS Sports Network (USA) FHD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cnninternational.jpg" group-title="Internacional", CNN Internacional
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/92.m3u8
