@@ -57,49 +57,49 @@ http://clubtv.link/1708a/key4512/distro.php?c=cine-real-latam.m3u8
 http://clubtv.link/1708a/key4512/distro.php?c=cine-sureno.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cbssports.png" group-title="Internacional", CBS Sports Network (USA) FHD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/161.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cnninternational.jpg" group-title="Internacional", CNN Internacional
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cnninternational.jpg" group-title="Internacional", CNN Internacional SD540
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/92.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/noticiascaracol.jpg" group-title="Cable", Caracol Noticias - Col
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/noticiascaracol.jpg" group-title="Cable", Caracol Noticias HD - Col
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/157.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/noticiascaracol.jpg" group-title="Cable", Caracol Noticias - Col
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/noticiascaracol.jpg" group-title="Cable", Caracol Noticias FHD - Col
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/226.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg"  group-title="Infantil", Disney Channel FHD
 http://190.83.60.34:1414/play/a023
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverylatam.png"  group-title="Cable", Discovery HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverylatam.png"  group-title="Cable;Internacional", Discovery FHD
 http://190.83.60.34:1414/play/a05a
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryhhlatam.jpg"  group-title="Cable", Discovery H&H HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryhhlatam.jpg"  group-title="Cable;Internacional", Discovery H&H FHD
 http://190.83.60.34:1414/play/a02q
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryturbo.png" group-title="Cable", Dicovery Turbo HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/230.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryturbo.png" group-title="Cable", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryturbo.png" group-title="Cable", Discovery Turbo SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/229.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png" group-title="Infantil", Discovery Kids HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png"  group-title="Infantil", Discovery Kids FHD
 http://190.83.60.34:1414/play/a02p
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryscience.jpg" group-title="Cable", Discovery Science
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryscience.jpg" group-title="Cable", Discovery Science FHD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytheater.jpg" group-title="Cable", Discovery Theater Usa
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytheater.jpg" group-title="Cable", Discovery Theater Usa SD576
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytheater.jpg"  group-title="Cable", Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytheater.jpg"  group-title="Cable", Discovery Theater FHD
 http://190.83.60.34:1414/play/a02r
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytlclatam.jpg" group-title="Cable", Discovery TLC
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverytlclatam.jpg" group-title="Cable", Discovery TLC SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryworld.png"  group-title="Cable", Discovery World HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryworld.png"  group-title="Cable;Internacional", Discovery World FHD
 http://190.83.60.34:1414/play/a03k
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/dhe.png"  group-title="Peliculas", DHE HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/dhe.png"  group-title="Peliculas;Internacional", DHE FHD
 http://190.83.60.34:1414/play/a059
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/exitosa.jpg"  group-title="Peru", Exitosa Noticias - HD
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/estrellatv.jpg" group-title="Cable", Estrella Tv Mx
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/estrellatv.jpg" group-title="Cable", Estrella Tv Mx FHD
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/euronewsesp.jpg" group-title="Cable", Euronews Español
 http://clubtv.link/1708a/key4512/distro.php?c=euronews-spa.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/euronewsesp.jpg" group-title="Cable", Euronews Esp
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/euronewsesp.jpg" group-title="Cable", Euronews Esp NFunk
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/elgourmet.jpg" group-title="Cocina", El Gourmet
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/elgourmet.jpg" group-title="Cocina", El Gourmet SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/e.png"  group-title="Cable", E! HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/e.png"  group-title="Cable;Internacional", E! FHD
 http://190.83.60.34:1414/play/a05z
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/espnextra.png"  group-title="Cable", ESPN EXTRA HD
 http://190.83.60.34:1414/play/a03n
@@ -121,21 +121,21 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/37.m3u8
 http://190.83.60.34:1414/play/a026
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/espncuatro.png"  group-title="Deportes", ESPN 4 FHD
 http://190.83.60.34:1414/play/a02w
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/eurosportuno.jpg" group-title="Deportes", Eurosports 1
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/eurosportuno.jpg" group-title="Deportes", Eurosports 1 NoFunk
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/206.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/flash.png" group-title="Musica", Flash
 http://clubtv.link/1708a/key4512/distro.php?c=flash-1.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/freetv.png" group-title="Peliculas", Free TV
 http://clubtv.link/1708a/key4512/distro.php?c=chiquilines.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foodnetworklatam.jpg"  group-title="Cocina", Food Network HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foodnetworklatam.jpg"  group-title="Cocina", Food Network FHD
 http://190.83.60.34:1414/play/a04i
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxnewschannel.png" group-title="Internacional", Fox News (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxnewschannel.png" group-title="Internacional", Fox News (USA) HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/168.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportuno.png" group-title="Internacional", Fox Sport 1 (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportuno.png" group-title="Internacional", Fox Sport 1 (USA) HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/221.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportdos.png"  group-title="Deportes", FOX Sports 2 HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportdos.png"  group-title="Deportes", FOX Sports 2 FHD
 http://190.83.60.34:1414/play/a02x
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsporttres.png"  group-title="Deportes", Fox Sports 3 HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsporttres.png"  group-title="Deportes", Fox Sports 3 FHD
 http://190.83.60.34:1414/play/a027
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxdeportes.jpg" group-title="Deportes", Fox Deportes SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
@@ -145,7 +145,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/69.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportsmx.jpg" group-title="Deportes", Fox Sports HD MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/fx.png" group-title="TV PREMIUM", FX
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/fx.png" group-title="TV PREMIUM", FX SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/goltv.jpg" group-title="Deportes", GolTV NFunk
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/208.m3u8
