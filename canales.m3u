@@ -39,11 +39,11 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://onlive.webcindario.com/logo/dwesp.png" group-title="Cable", DW Español FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg"  group-title="Infantil", Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg"  group-title="Infantil", Cartoon Network FHD
 http://190.83.60.34:1414/play/a03u
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network West TVE Feed
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonetwork.jpg" group-title="Infantil", Cartoon Network West TVE Feed HD
 https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonito.png" group-title="Infantil", Cartoonito Mx
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/cartoonito.png" group-title="Infantil", Cartoonito Mx HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/comedycentral.jpg"  group-title="Cable", Comedy Central HD
 http://190.83.60.34:1414/play/a02g
@@ -63,7 +63,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/92.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/157.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/noticiascaracol.jpg" group-title="Cable", Caracol Noticias - Col
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/226.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg"  group-title="Infantil", Disney Channel HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/disneychannellatam.jpg"  group-title="Infantil", Disney Channel FHD
 http://190.83.60.34:1414/play/a023
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverylatam.png"  group-title="Cable", Discovery HD
 http://190.83.60.34:1414/play/a05a
@@ -73,9 +73,9 @@ http://190.83.60.34:1414/play/a02q
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/230.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryturbo.png" group-title="Cable", Discovery Turbo
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/229.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png" group-title="Infantil", Discovery Kids
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png" group-title="Infantil", Discovery Kids HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png"  group-title="Infantil", Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoverykidslatam.png"  group-title="Infantil", Discovery Kids FHD
 http://190.83.60.34:1414/play/a02p
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/discoveryscience.jpg" group-title="Cable", Discovery Science
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
@@ -193,11 +193,11 @@ http://190.83.60.34:1414/play/a05s
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/146.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/natgeo.png"  group-title="Cable", Nat Geo HD
 http://190.83.60.34:1414/play/a03j
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/nick.jpg"  group-title="Infantil", Nick HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/nick.jpg"  group-title="Infantil", Nick FHD
 http://190.83.60.34:1414/play/a01s
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/universo.jpg" group-title="Cable", NBC Universo (USA)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/nickjr.png" group-title="Infantil", Nick Jr
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/nickjr.png" group-title="Infantil", Nick Jr HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/paramountnetwork.jpg"  group-title="Cable", Paramount HD
 http://190.83.60.34:1414/play/a03v
@@ -267,7 +267,7 @@ https://dmxleo.dailymotion.com/cdn/manifest/video/x7x4dgx.m3u8?auth=x&cs=dmx_1Uw
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", Cine
 https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png" group-title="Infantil", Nick Jr
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png" group-title="Infantil", Nick Jr HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/unknownchannel.png"  group-title="Peliculas", Studio Universal HD
 http://190.83.60.34:1414/play/a03w
