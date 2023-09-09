@@ -33,7 +33,7 @@ http://190.83.60.34:1414/play/a042
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/117.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bbcamerica.jpg" group-title="Internacional", BBC America (USA)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/166.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/beinsportsesp.jpg" group-title="Deportes", Bein Sports Esp
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/beinsportsesp.jpg" group-title="Deportes", Bein Sports Esp HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/176.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/bravo.jpg" group-title="Internacional", Bravo (USA)
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/192.m3u8
@@ -139,17 +139,17 @@ http://190.83.60.34:1414/play/a02x
 http://190.83.60.34:1414/play/a027
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxdeportes.jpg" group-title="Deportes", Fox Deportes SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportspremium.png" group-title="Deportes", Fox Sports Premium HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/69.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportsmx.jpg" group-title="Deportes", Fox Sports MX
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportsmx.jpg" group-title="Deportes", Fox Sports MX SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/40.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/foxsportsmx.jpg" group-title="Deportes", Fox Sports HD MX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/42.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/fx.png" group-title="TV PREMIUM", FX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/goltv.jpg" group-title="Deportes", GolTV
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/goltv.jpg" group-title="Deportes", GolTV NFunk
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/208.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/golperu.jpg"  group-title="Deportes", GOLPeru HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/golperu.jpg"  group-title="Deportes", GOLPeru FHD
 http://190.83.60.34:1414/play/a04m
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/glewedtvesp.png" group-title="Cable", Glewedtv Spanish - Ecuador
 http://clubtv.link/1708a/key4512/distro.php?c=glewedtv-spanish.m3u8
@@ -187,7 +187,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/94.m3u8
 http://clubtv.link/1708a/key4512/distro.php?c=mmc.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/mytimemovie.jpg" group-title="Peliculas", MyTime movie network Spain FHD
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/movistardeportes.png"  group-title="Deportes", Movistar Deportes HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/movistardeportes.png"  group-title="Deportes", Movistar Deportes FHD
 http://190.83.60.34:1414/play/a05s
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/movistardrama.png" group-title="Peliculas", Movistar Drama
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/146.m3u8
@@ -229,7 +229,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
 http://190.83.60.34:1414/play/a025
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tntseries.png"  group-title="Peliculas", TNT Series HD
 http://190.83.60.34:1414/play/a034
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tntsports.jpg"  group-title="Deportes", TNT Sports HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tntsports.jpg"  group-title="Deportes", TNT Sports FHD
 http://190.83.60.34:1414/play/a01h
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tvmas.jpg"  group-title="Cable", TV+ HD
 http://190.83.60.34:1414/play/a03h
