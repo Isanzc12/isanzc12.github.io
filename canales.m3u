@@ -5,27 +5,27 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/americatv.png"  group-title="Peru", America TV FHD
 http://190.83.60.34:1414/play/a04j
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/adn40.jpg" group-title="Cable", ADN40 Mx
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/adn40.jpg" group-title="Cable", ADN40 Mx HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/ae.png" group-title="Peliculas", A and E
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/ae.png" group-title="Peliculas", A and E SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/ae.png"  group-title="Peliculas", A&E HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/ae.png"  group-title="Peliculas", A&E FHD
 http://190.83.60.34:1414/play/a01c
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/aztecacinema.jpg"  group-title="Cable", AZ Cinema HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/aztecacinema.jpg"  group-title="Cable", AZ Cinema FHD
 http://190.83.60.34:1414/play/a03y
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/axn.jpg"  group-title="Peliculas", AXN HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/axn.jpg"  group-title="Peliculas", AXN FHD
 http://190.83.60.34:1414/play/a01f
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/amc.jpg"  group-title="Peliculas", AMC HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/amc.jpg"  group-title="Peliculas", AMC FHD
 http://190.83.60.34:1414/play/a03m
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tvmas.jpg" group-title="Cable", A+
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/tvmas.jpg" group-title="Cable", A+ HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/113.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/abc.png" group-title="Internacional", ABC (USA)
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/abc.png" group-title="Internacional", ABC (USA) HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/159.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/abcnews.jpg" group-title="Internacional", ABC News
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/abcnews.jpg" group-title="Internacional", ABC News HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/110.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/adrenalinasports.png" group-title="Cable", Adrenalina Sport
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/adrenalinasports.png" group-title="Cable", Adrenalina Sport HD
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/140.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg" group-title="Cable", Animal Planet
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg" group-title="Cable;Internacional", Animal Planet SD480
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/animalplanet.jpg"  group-title="Cable", Animal Planet HD
 http://190.83.60.34:1414/play/a042
