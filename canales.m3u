@@ -3,7 +3,7 @@
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atvplus.jpg" group-title="Peru", ATV+ Noticias- HD
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/americatv.png"  group-title="Peru", America TV - HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/americatv.png"  group-title="Peru", America TV FHD
 http://190.83.60.34:1414/play/a04j
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/adn40.jpg" group-title="Cable", ADN40 Mx
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -179,7 +179,7 @@ http://190.83.60.34:1414/play/a06o
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/juntos.png" group-title="Peliculas", Juntos
 http://clubtv.link/1708a/key4512/distro.php?c=juntos.m3u8
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/latina.jpg"  group-title="Peru", Latina HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/latina.jpg"  group-title="Peru", Latina FHD
 http://190.83.60.34:1414/play/a04k
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/mtvhits.png" group-title="Musica", MTV Hits
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/94.m3u8
@@ -201,7 +201,7 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/64.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/paramountnetwork.jpg"  group-title="Cable", Paramount HD
 http://190.83.60.34:1414/play/a03v
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/panamericana.jpg" group-title="Peru", Panamericana TV - HD
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/panamericana.jpg" group-title="Peru", Panamericana TV - HD NFunk
 https://cdn74.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/romancetv.png"  group-title="Peliculas", Romance TV
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
@@ -261,7 +261,7 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/warnerchanneltv.jpg"  group-title="Peliculas", Warner Channel HD
 http://190.83.60.34:1414/play/a01e
-#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/willax.png"  group-title="Peru", Willax Tv
+#EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/willax.png"  group-title="Peru", Willax Tv NFunk
 https://dmxleo.dailymotion.com/cdn/manifest/video/x7x4dgx.m3u8?auth=x&cs=dmx_1UwX3U93rupF0-R7rP36B0TRK2II2FGghVaYFdSUw-Cw93N0PfqTk9FHtM0bgjz7XM5pTYbvZEBK6m2uqdGxQs4-P5qTWYKhl63Zh7YK0NE
 #EXTINF:-1 tvg-id="13T.cl" tvg-logo="https://onlive.webcindario.com/logo/treceteleseries.png" group-title="Series", 13 Teleseries HD
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
