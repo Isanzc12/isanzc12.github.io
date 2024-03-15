@@ -6,7 +6,7 @@ https://onlive.webcindario.com/live/tv.php?ch=latina
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/panamericana.jpg" group-title="Peru",  Panamericana | HD+
 https://onlive.webcindario.com/live/tv.php?ch=panamericana
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/atv.jpg" group-title="Peru", ATV | HD+
-https://onlive.webcindario.com/live/tv.php?ch=atv
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/logo/willax.png" group-title="Peru", Willax | HD+
 https://onlive.webcindario.com/live/tv.php?ch=willax
 #EXTINF:-1 tvg-logo="https://onlive.webcindario.com/Upload/images/liga1max.png" group-title="Peru", Liga 1 Max | HD+
