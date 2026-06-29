@@ -1,22 +1,52 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports | HD+
 http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports 2  | HD+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports | HD+
+http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8SG7InBUR1yMgPVhkZ-MDc-K2L6nVYS1aw&s" group-title="Deportes", DSports 2 | HD+
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://8.243.126.131:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://190.61.42.218:9000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://190.61.42.218:9000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://190.60.59.67:8000/play/a0jh
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
+http://45.5.119.43:4000/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn2.png" group-title="Deportes", ESPN 2 | HD+
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn2.png" group-title="Deportes", ESPN 2 | HD+
+http://190.61.42.218:9000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn2.png" group-title="Deportes", ESPN 2 | HD+
+http://190.61.42.218:9000/play/a06j/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn3.png" group-title="Deportes", ESPN 3 | HD+
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn4.png" group-title="Deportes", ESPN 4 | HD+
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn4.png" group-title="Deportes", ESPN 4 | HD+
+http://45.5.119.43:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn5.png" group-title="Deportes", ESPN 5 | HD+
+http://45.5.119.43:4000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn6.jpg" group-title="Deportes", ESPN 6 | HD+
+http://45.5.119.43:4000/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqrevGwB3SLKWZhHspf3oIamyuylly70Ynw&s" group-title="Deportes", ESPN Premium | HD+
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports 2z  | HD+
 https://mileixd.skylivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=161.132.53.167&token=38a74edae2509e458b5459c48ae499b391bbc749-75-1782735352-1782681352
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports + | HD+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports +z | HD+
 https://mileixd.skylivehd.com/dsportsplus/index.m3u8?ip=161.132.53.167&token=058410a774622e020c76b1310c6d082576be85a1-c6-1782735214-1782681214
+
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/clarosports.png" group-title="Deportes", Claro Sports | HD+
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/clarosports.png" group-title="Deportes", Claro Sports | HD+
 http://45.5.119.43:4000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPNz | HD+
-http://190.61.42.218:9000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPNz1 | HD+
-http://190.60.59.67:8000/play/a0jh
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
 http://38.49.128.38:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN | HD+
-http://45.5.119.43:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN (CO) | HD+
 http://200.59.188.3:8000/play/a03i
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn2.png" group-title="Deportes", ESPN 2 | HD+
@@ -29,12 +59,6 @@ http://38.49.128.38:8000/play/a0c3/index.m3u8
 http://45.5.119.43:4000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn4.png" group-title="Deportes", ESPN 4 | HD+
 http://38.49.128.38:8000/play/a0kf/index.m3u8
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn4.png" group-title="Deportes", ESPN 4 | HD+
-http://45.5.119.43:4000/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn5.png" group-title="Deportes", ESPN 5 | HD+
-http://45.5.119.43:4000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn6.jpg" group-title="Deportes", ESPN 6 | HD+
-http://45.5.119.43:4000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/tycsports.png" group-title="Deportes", TyC Sports | HD+
 http://38.49.128.38:8000/play/a0kw/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/l1max.png" group-title="Deportes", Liga 1 Max | HD+
@@ -49,10 +73,18 @@ https://deportes.ksdjugfsddeports.com:9092/MTQ5LjM0LjQ4Ljcw/22_.m3u8?token=Iirtl
 https://tvtvhd.com/vivo/canales.php?stream=espn
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN test2 | HD+
 https://cgxheq.fubohd.com/espn/mono.m3u8?token=8248168cf5c52caad4774ae813fbcae7b9cf0354-c-1776912363-1776894363
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN test3| HD+
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", ESPN test3 | HD+
 http://38.137.192.250:8000/play/a0b5
-#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", DIRECTV Sport| HD+
+#EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", DIRECTV Sport | HD+
 https://deportes.ksdjugfsddeports.com:9092/MTY2LjEuODguMTI2/3_.m3u8?token=YP5AzXOCKOCeZCAxZRKtsQ&expires=1778472141
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/espn.png" group-title="Deportes", DGO| HD+
 https://deportes.ksdjugfsddeports.com:9092/MTYxLjEzMi40MS4xNjU=/3_.m3u8?token=o0GwuyKq6zQ4DbbIBpY-6g&expires=1781261538
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRlYTNkYzEtN2VjMi00MTFmLTg0MzktNGFhYjA1M2ExNGU3XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,500,281_.jpg" group-title="Deportes", HBO Family | HD+
+http://8.243.126.131:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="Deportes", Space | HD+
+http://190.61.42.218:9000/play/a05l/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVBBUmqBiaSL47ZoSP8KxWRZGN3qLpxTeuA&s" group-title="Deportes", Disney Channel| HD+
+http://190.61.42.218:9000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WRT3nzkXXvD7CYXS2p_6pEZpPL9g2gJfOAFE-f0PTMawVdXJhaXvoIXpVOeb6qAlSENwfzVvMnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", History| HD+
+http://190.61.42.218:9000/play/a05b/index.m3u8
 
