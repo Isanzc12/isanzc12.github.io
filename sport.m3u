@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DIRECTV Sportz1| HD+
-https://mileixd.skylivehd.com/dsports/index.m3u8?ip=166.1.88.186&token=60ccd830d998dc8d3caf27a621596c6598dd35ba-25-1782719890-1782665890
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DIRECTV Sportz2| HD+
-https://mileixd.skylivehd.com/dsports/tracks-v1a1/2026/06/28/19/30/38-05000.ts?token=60ccd830d998dc8d3caf27a621596c6598dd35ba-25-1782719890-1782665890
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DIRECTV Sportz3| HD+
-https://deportes.ksdjugfsddeports.com/32bfcdb9-404d-45a1-a225-8fa59b896475
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DIRECTV Sportz4| HD+
-https://deportes.ksdjugfsddeports.com:9092/MTY2LjEuODguMTg2/3_.m3u8?token=cBEBHfCF2HWD5EhHhYxhxQ&expires=1782707474
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports | HD+
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports 2  | HD+
+https://mileixd.skylivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=161.132.53.167&token=38a74edae2509e458b5459c48ae499b391bbc749-75-1782735352-1782681352
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports + | HD+
+https://mileixd.skylivehd.com/dsportsplus/index.m3u8?ip=161.132.53.167&token=058410a774622e020c76b1310c6d082576be85a1-c6-1782735214-1782681214
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/clarosports.png" group-title="Deportes", Claro Sports | HD+
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 #EXTINF:-1 tvg-logo="https://mega.xo.je/img/clarosports.png" group-title="Deportes", Claro Sports | HD+
