@@ -5,6 +5,8 @@ http://190.7.19.197:232/play/a09i/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSportsz1 | HD+
 https://khala.skylivehd.com/global/dsports/index.m3u8?ip=38.250.116.74&token=fca837923813e48a4ff0604ebd6b54c82dd94459-67-1783150160-1783096160
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYviL5DmcSP2ERqN0erd-m3etM0y6PgPktyvC16R_0Cw&s=10" group-title="Deportes", America TV | HD
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&dnt=true&access_token=cHGdbq7kg99xQSbN151kebQ0OLtKFV1XlJHjPUyTg15dj8q0I06t0uEYcE2yyG50xB3SRW2I0RK&uid=Uy8PILLTGiwOJiTVtwEs0SOPwo6Km6YR&sid=Y31KRHmOlSw4xVITfnCudiOXXBKW0XOS&pid=w9d20UDHzPkorHDf8LYdMRzOuHOcV78N&ref=tvgo.americatv.com.pe&ext_pb=0&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1783201437493&ot=i9TL-I6SpPty6piEW2EARg&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports | HD
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LXZ8NsGJqBVT47Z8MgNTpG59piHpb71nAQ&s" group-title="Deportes", DSports | HD+
