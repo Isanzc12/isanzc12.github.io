@@ -7,17 +7,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 https://khala.skylivehd.com/global/dsports/index.m3u8?ip=38.250.116.74&token=fca837923813e48a4ff0604ebd6b54c82dd94459-67-1783150160-1783096160
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8lodob3N-JjY00vl8DGU77HiFNHXrcENpydoxjY9Rg&s=10" group-title="Deportes", Latina | HD+
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYviL5DmcSP2ERqN0erd-m3etM0y6PgPktyvC16R_0Cw&s=10" group-title="Deportes", America TV | HD+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYviL5DmcSP2ERqN0erd-m3etM0y6PgPktyvC16R_0Cw&s=10" group-title="Deportes", America TV | HD+
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd86mzVdVNhCIa6SoCQZ9Kq3WC_519pEB0AT6-rsbkYA&s=10" group-title="Deportes", Panamericana | HD+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd86mzVdVNhCIa6SoCQZ9Kq3WC_519pEB0AT6-rsbkYA&s=10" group-title="Deportes", Panamericana | HD+
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3ITIfWZDN9EY3zWaExLqaLnxv68jQqYclviFWYTHNg&s=10" group-title="Deportes", ATV | HD
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3ITIfWZDN9EY3zWaExLqaLnxv68jQqYclviFWYTHNg&s=10" group-title="Deportes", ATV | HD
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxmcw7VfEhnqpXbjqRb9z152mVQFfu8w7wrAubFfCxg&s=10" group-title="Deportes", TV Peru | HD
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxmcw7VfEhnqpXbjqRb9z152mVQFfu8w7wrAubFfCxg&s=10" group-title="Deportes", TV Peru | HD
 http://181.119.93.83:8000/play/a25t/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AVfRMO65qaRj-dIFxE74Rca4ZvUwj7mb66f4uQKW&s=10" group-title="Deportes", Willax | HD +
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8AVfRMO65qaRj-dIFxE74Rca4ZvUwj7mb66f4uQKW&s=10" group-title="Deportes", Willax | HD +
 https://live-evg20.tv360.bitel.com.pe/RfH33RuNgtiu1cjwi2QUTA/1783311243/bitel/Willax-UDP_abr/bitel/Willax-udp_360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Khr_GhQ8g42SHJRvUBnYu1GqKqPGHU4bOE-k-Fgvpw&s" group-title="Deportes", RPP | HD +
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Khr_GhQ8g42SHJRvUBnYu1GqKqPGHU4bOE-k-Fgvpw&s" group-title="Deportes", RPP | HD +
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNEVJthzOjBQvNUqs4O-87-ca66AQLsQGgw1SyViyIg&s=10" group-title="Deportes", Telemundo Internacional | HD +
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
