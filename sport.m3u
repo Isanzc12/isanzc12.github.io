@@ -118,4 +118,6 @@ http://181.119.93.83:8000/play/a25t/index.m3u8
 https://live-evg20.tv360.bitel.com.pe/RfH33RuNgtiu1cjwi2QUTA/1783311243/bitel/Willax-UDP_abr/bitel/Willax-udp_360p/chunks.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-chno="6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Khr_GhQ8g42SHJRvUBnYu1GqKqPGHU4bOE-k-Fgvpw&s" group-title="Deportes", RPP | HD +
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-chno="120" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Entretenimiento", Comedy Central| HD +
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
 
